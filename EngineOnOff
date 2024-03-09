@@ -1,0 +1,16 @@
+{
+	"name": "Engine On/Off",
+	"supportEmail": "support@geotab.com",
+	"version": "1.0.0",
+	"items": [
+		{
+			"url": "https://cdn.jsdelivr.net/gh/Geotab/sdk-addin-samples@master/addin-iox-output/dist/ioxOutput.html",
+			"path": "AdministrationLink/",
+			"menuName": {
+				"en": "Engine On/Off"
+			},
+			"icon": "https://cdn.jsdelivr.net/gh/Geotab/sdk-addin-samples@master/addin-iox-output/dist/images/icon.svg"
+		}
+	],
+	"isSigned": true
+}
