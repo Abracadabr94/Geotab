@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+    <!-- Create a clickable area with an 'a' element -->
+    <a href="https://example.com">
+        <!-- Define the appearance of the clickable area -->
+        <rect x="0" y="0" width="200" height="200" fill="blue" />
+        <!-- Add text for the link -->
+        <text x="50%" y="50%" fill="white" text-anchor="middle">Click Here</text>
+    </a>
+</svg>
